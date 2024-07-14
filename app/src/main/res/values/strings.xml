@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city">Місто</string>
+    <string name="temperature">Температура: </string>
+    <string name="windSpeed">Швидкість вітру: </string>
+    <string name="sendRequest">Завантажити</string>
+</resources>
